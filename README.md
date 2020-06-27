@@ -16,4 +16,4 @@ Main functions:
   - Change color for background and foreground of text area.
 4, Tools
   - Count characters, words and sentences in text area.
-=================================================================
+  =================================================================
